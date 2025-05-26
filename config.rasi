@@ -1,9 +1,1 @@
-// @theme "~/.local/share/rofi/themes/arc_dark_transparent_colors.rasi"
-
-//@theme "/usr/share/rofi/themes/DarkBlue.rasi"
-
-//@theme "/usr/share/rofi/themes/lb.rasi"
-
-//@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
-
-@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+@theme "~/.config/rofi/tokyodark.rasi"
